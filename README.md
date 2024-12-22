@@ -24,7 +24,7 @@ Installation🤓☝️:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/react-shoe-store.git
+git clone https://github.com/amirrajj-dev/react-shoe-store.git
 cd react-shoe-store
 
 Install dependencies:
